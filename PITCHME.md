@@ -4,17 +4,17 @@ id:k-suzuki-k
 ### 自己紹介
 ![IMAGE](assets/img/presentation.png)
 ---
--  茨城県出身 |
--  現在27歳 |
--  趣味 |
+-  茨城県出身
+-  現在27歳
+-  趣味
 	-  読書(人文系)
 	-  ギター
 	-  スヌーピー
 	-  vim
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-### 
+### 制作物について 
 ![IMAGE](assets/img/presentation.png)
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
