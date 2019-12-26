@@ -1,17 +1,6 @@
 ### ポートフォリオ発表
 
 ---
-### 自己紹介
-![IMAGE](assets/img/presentation.png)
----
--  茨城県出身
--  27歳
--  趣味
-	-  読書(人文系)
-	-  ギター
-	-  vim
-
----
 ### 何を作ったか？ 
 ![IMAGE](assets/img/presentation.png)
 
