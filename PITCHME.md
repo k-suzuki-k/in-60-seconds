@@ -18,7 +18,7 @@ id:k-suzuki-k
 ![IMAGE](assets/img/presentation.png)
 
 ---
-calcal(カルカル)という<br>  
+calcal(カルカル)という<br>
 カレンダーを使った<br>
 シンプルなtodo管理アプリを作成しました。<br>
 <br>
