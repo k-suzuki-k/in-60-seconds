@@ -1,7 +1,7 @@
 # GitPitch In-60-Seconds - A Very Short Tutorial.
 #
 
-theme            : moon
+theme            : simple
 
 theme-background : [ "linear-gradient(180deg, white 95%, black 5%)" ]
 theme-headline   : [ "Lato", "#93C54B", "none" ]
@@ -10,7 +10,7 @@ theme-text       : [ "Lato", "#1C1C1C", "none" ]
 theme-links      : [ "#62A503", "#718C00" ]
 theme-code       : [ "Fira Code" ]
 theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "15px" ]
+theme-margins    : [ "0", "12px" ]
 
 highlight        : tomorrow
 
