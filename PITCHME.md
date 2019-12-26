@@ -54,9 +54,11 @@ calcal(カルカル)という<br>
 @snap[north-east span-50 text-08]
 → 作りたいものが思いつかない、、
 @snapend
-@snap[north-east span-50 text-08]
+
+@snap[east span-50 text-08]
 → googleカレンダーが便利だけど個人的に好きじゃないことを思い出す
 @snapend
+
 @snap[south-east span-50 text-08]
 → 決めた方針をもとにカレンダー使ったtodo管理を作ろう
 @snapend
