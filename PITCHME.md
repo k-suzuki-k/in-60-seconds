@@ -63,3 +63,19 @@ todo管理アプリを作成しました。<br>
 ###  工夫した点、苦労した点
 ![IMAGE](assets/img/presentation.png)
 ---
+#### 課題:viewを書くのが遅くて汚い
+
+slimを導入したことで記述量が激減した。  
+読みやすくリファクタリングもしやすくなったので、  
+学習してよかった。
+```
+= form_with(model: @user, local: true, class: "validate_field") do |form|
+  .form-group
+    = form.label :name, 'ユーザー名'
+    = form.text_field :name, class: 'form-control validate[maxSize[20]]'
+
+  .form-group
+    = form.label :email, 'メールアドレス'
+    = form.text_field :email, class: 'form-control validate[required,custom[email]] email_auto'
+```
+---
