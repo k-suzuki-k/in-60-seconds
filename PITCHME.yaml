@@ -1,7 +1,7 @@
 # GitPitch In-60-Seconds - A Very Short Tutorial.
 #
 
-theme            : template
+theme            : moon
 
 theme-background : [ "linear-gradient(180deg, white 95%, black 5%)" ]
 theme-headline   : [ "Lato", "#93C54B", "none" ]
