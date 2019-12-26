@@ -3,7 +3,7 @@
 
 theme            : template
 
-theme-background : [ "linear-gradient(180deg, white 75%, black 25%)" ]
+theme-background : [ "linear-gradient(180deg, white 95%, black 5%)" ]
 theme-headline   : [ "Montserrat", "#93C54B", "none" ]
 theme-byline     : [ "Montserrat", "#111111", "none" ]
 theme-text       : [ "Raleway", "#1C1C1C", "none" ]
