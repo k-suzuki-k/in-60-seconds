@@ -73,7 +73,7 @@ calcal(カルカル)という<br>
 **slim**を導入したことで記述量が激減した。  
 読みやすくリファクタリングもしやすくなったので、  
 学習してよかった。  
-helperを使えばもっとviewをきれいにできたと思った。
+helperを使えばもっとviewをきれいにできた。
 ```
 = form_with(model: @user, local: true, class: "validate_field") do |form|
   .form-group
