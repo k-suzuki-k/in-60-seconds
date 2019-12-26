@@ -58,8 +58,8 @@ todo管理アプリを作成しました。<br>
 
 ---
 ###  動作デモ
-
+![IMAGE](assets/img/presentation.png)
 ---
 ###  工夫した点、苦労した点
-
+![IMAGE](assets/img/presentation.png)
 ---
