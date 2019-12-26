@@ -15,9 +15,9 @@ id:k-suzuki-k
 ### 何を作ったか？ 
 ![IMAGE](assets/img/presentation.png)
 ---
-calcal(カルカル)という名前の  
+calcal(カルカル)という名前の<br>
 シンプルなtodo管理アプリを作成しました。
-
+<br>
 名前の由来
 -  Linuxのコマンド`cal`
 -  軽い気持ちで使って欲しい
