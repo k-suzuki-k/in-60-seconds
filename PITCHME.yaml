@@ -4,9 +4,9 @@
 theme            : template
 
 theme-background : [ "linear-gradient(180deg, white 95%, black 5%)" ]
-theme-headline   : [ "Montserrat", "#93C54B", "none" ]
-theme-byline     : [ "Montserrat", "#111111", "none" ]
-theme-text       : [ "Raleway", "#1C1C1C", "none" ]
+theme-headline   : [ "Lato", "#93C54B", "none" ]
+theme-byline     : [ "Lato", "#111111", "none" ]
+theme-text       : [ "Lato", "#1C1C1C", "none" ]
 theme-links      : [ "#62A503", "#718C00" ]
 theme-code       : [ "Fira Code" ]
 theme-controls   : [ "#C0C0C0" ]
