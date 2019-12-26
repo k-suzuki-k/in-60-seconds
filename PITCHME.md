@@ -4,30 +4,16 @@ id:k-suzuki-k
 ### 自己紹介
 ![IMAGE](assets/img/presentation.png)
 ---
-@ul[list-spaced-bullets text-white text-09]
--  茨城県出身
--  現在27歳
--  趣味
+-  茨城県出身 |
+-  現在27歳 |
+-  趣味 |
 	-  読書(人文系)
 	-  ギター
 	-  スヌーピー
 	-  vim
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize the Layout
-@snapend
-
-@snap[east span-50]
+### 
 ![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
 
