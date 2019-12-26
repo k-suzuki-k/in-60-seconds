@@ -1,12 +1,19 @@
 ### ポートフォリオ発表
 id:k-suzuki-k
 ---
-
 ### 自己紹介
-
 ![IMAGE](assets/img/presentation.png)
-
+---
+###
+-  茨城県出身
+-  現在27歳
+-  趣味
+	-  読書(人文系)
+	-  ギター
+	-  スヌーピー
+	-  vim
 ---?color=linear-gradient(180deg, white 75%, black 25%)
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
