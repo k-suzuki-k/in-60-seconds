@@ -1,10 +1,8 @@
-### Let's Get Started
-
-
-鈴木航平
+### ポートフォリオ発表
+id:k-suzuki-k
 ---
 
-## Add Some Slide Candy
+### 自己紹介
 
 ![IMAGE](assets/img/presentation.png)
 
