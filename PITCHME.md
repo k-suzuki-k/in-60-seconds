@@ -4,7 +4,7 @@ id:k-suzuki-k
 ### 自己紹介
 ![IMAGE](assets/img/presentation.png)
 ---
-###
+@ul[list-spaced-bullets text-white text-09]
 -  茨城県出身
 -  現在27歳
 -  趣味
