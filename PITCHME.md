@@ -18,18 +18,14 @@ id:k-suzuki-k
 ![IMAGE](assets/img/presentation.png)
 
 ---
-@snap[west span-50 text-left]
-calcal(カルカル)という  
-カレンダーを使ったシンプルな  
-todo管理アプリを作成しました。  
-@snapend
-
-@snap[east span-50 text-08]
+calcal(カルカル)という<br>  
+カレンダーを使った<br>
+シンプルなtodo管理アプリを作成しました。<br>
+<br>
 名前の由来
 -  Linuxでカレンダーを表示するコマンド`cal`
 -  軽(カル)い気持ちで使って欲しい
 -  HUNTER×HUNTERが好き
-@snapend
 
 ---
 ###  題材を選んだ理由は？ 
