@@ -22,14 +22,14 @@ id:k-suzuki-k
 calcal(カルカル)という  
 カレンダーを使ったシンプルな  
 todo管理アプリを作成しました。  
-@snaped
+@snapend
 
 @snap[east span-50 text-08]
 名前の由来
 -  Linuxでカレンダーを表示するコマンド`cal`
 -  軽(カル)い気持ちで使って欲しい
 -  HUNTER×HUNTERが好き
-@snaped
+@snapend
 
 ---
 ###  題材を選んだ理由は？ 
