@@ -11,9 +11,16 @@ id:k-suzuki-k
 	-  ギター
 	-  スヌーピー
 	-  vim
----?color=linear-gradient(180deg, white 75%, black 25%)
-### 制作物について 
+---
+### 何を作ったか？ 
 ![IMAGE](assets/img/presentation.png)
+---
+calcal(カルカル)という名前のシンプルなtodo管理アプリを作成しました。
+
+名前の由来
+-  Linuxのコマンド`cal`
+-  軽い気持ちで使って欲しい
+
 ---
 @title[Add A Little Imagination]
 
