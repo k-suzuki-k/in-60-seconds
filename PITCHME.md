@@ -98,9 +98,6 @@ calcal(カルカル)という<br>
       })
 ```
 ```erb
-// post listの初期化
-$('#post_search_result').find('table').remove();
-
 // post listの非同期での追加
 $("<%= escape_javascript(render partial: '/posts/post_list', locals: { posts: @posts }) %>").appendTo("#post_search_result");
 ```
@@ -110,6 +107,22 @@ $("<%= escape_javascript(render partial: '/posts/post_list', locals: { posts: @p
 テストコード書くまでに時間が掛かった。
 -  Rspecでテストできていない処理も多い。
 -  「何をテストするべきか？」の考え方を身に着ける必要性を感じた。
+```rb
+require 'rails_helper'
+
+describe "login", type: :system, js: true do
+  feature "ログイン機能" do
+    let(:correct_user) { create(:user) }
+    let(:user_without_info) { build(:user, email: '', password: '') }
+
+    before do
+      visit root_path
+      all(".wv-tabs-header_tab")[1].click
+      all("#user_email")[1].set(user_x.email)
+      all("#user_password")[1].set(user_x.password)
+      click_on "ログイン"
+    end
+```
 
 ---
 ####  新たな課題
