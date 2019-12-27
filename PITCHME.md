@@ -118,11 +118,7 @@ describe "login", type: :system, js: true do
     before do
       visit root_path
       all(".wv-tabs-header_tab")[1].click
-      all("#user_email")[1].set(user_x.email)
-      all("#user_password")[1].set(user_x.password)
-      click_on "ログイン"
-    end
-```
+ ```
 
 ---
 ####  新たな課題
