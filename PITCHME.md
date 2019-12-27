@@ -11,22 +11,6 @@
 	-  ギター
 	-  vim
 
-```
-  " default
-  runtime! debian.vim
-
-  if has("syntax")
-    syntax on
-  endif
-
-  """""""""""""""""""""""""""""""""""""'
-  " Add
-  inoremap <silent> jj <ESC>
-  set hlsearch
-  set nowrap
-  nnoremap <ESC><ESC> :nohlsearch<CR>
-```
-
 ---
 ### 何を作ったか？ 
 ![IMAGE](assets/img/presentation.png)
