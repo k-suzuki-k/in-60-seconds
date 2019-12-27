@@ -85,6 +85,25 @@ calcal(カルカル)という<br>
 -  非同期処理のおおまかな考え方・実装方法は  
 身に着けたので細かい処理を覚える必要がある。  
 
+```js
+    //カレンダーの日付をクリックするとその日付のtodoを抽出する
+    dayClick: function(date) {
+      $.ajax({
+        url: '/todos/search',
+        type: 'GET',
+        data: ('keyword=' + date.format()),
+        processData: false,
+        contentType: false,
+        dataType: 'json'
+      })
+```
+```erb
+// post listの初期化
+$('#post_search_result').find('table').remove();
+
+// post listの非同期での追加
+$("<%= escape_javascript(render partial: '/posts/post_list', locals: { posts: @posts }) %>").appendTo("#post_search_result");
+```
 ---
 ####  課題:テストコードの書き方がわからない
 -  Rspecの設定やテストデータの作り方(factory_bot)など
