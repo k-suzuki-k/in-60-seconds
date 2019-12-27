@@ -107,6 +107,7 @@ $("<%= escape_javascript(render partial: '/posts/post_list', locals: { posts: @p
 テストコード書くまでに時間が掛かった。
 -  Rspecでテストできていない処理も多い。
 -  「何をテストするべきか？」の考え方を身に着ける必要性を感じた。
+
 ```rb
 require 'rails_helper'
 
@@ -118,7 +119,7 @@ describe "login", type: :system, js: true do
     before do
       visit root_path
       all(".wv-tabs-header_tab")[1].click
- ```
+```
 
 ---
 ####  新たな課題
